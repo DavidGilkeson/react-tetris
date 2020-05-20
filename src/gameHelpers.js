@@ -1,5 +1,5 @@
 export const STAGE_WIDTH = 12;
-export const STAGE_HEIGHT = 12;
+export const STAGE_HEIGHT = 20;
 
 //Creating a multi-dimensional array that represents the grid
 
